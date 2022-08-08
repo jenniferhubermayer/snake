@@ -1,6 +1,6 @@
 # snake | Online game
 
-This is a nice little game using JavaScript. Move your cursor and the snake will follow you.
+This is a nice little game using JavaScript. Move your cursor and the snake will follow.
 
 ## Table of contents
 
