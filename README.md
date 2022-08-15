@@ -24,8 +24,8 @@ In this exercise you program a small snake game:
 
 ### Links
 
-- Solution URL: [https://github.com/jenniferhubermayer/snake)
-- Live Site URL: [jenniferhubermayer.github.io/snake/)
+- Solution URL: [https://github.com/jenniferhubermayer/snake](https://github.com/jenniferhubermayer/snake)
+- Live Site URL: [jenniferhubermayer.github.io/snake/](https://github.com/jenniferhubermayer/snake)
 
 ## My process
 
